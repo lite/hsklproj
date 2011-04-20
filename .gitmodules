@@ -1,0 +1,21 @@
+[submodule "charm"]
+	path = charm
+	url = git@github.com:copumpkin/charm.git
+[submodule "dwarf"]
+	path = dwarf
+	url = git@github.com:erikcharlebois/dwarf.git
+[submodule "elf"]
+	path = elf
+	url = git@github.com:erikcharlebois/elf.git
+[submodule "macho"]
+	path = macho
+	url = git@github.com:erikcharlebois/macho.git
+[submodule "pecoff"]
+	path = pecoff
+	url = git@github.com:erikcharlebois/pecoff.git
+[submodule "universal-binary"]
+	path = universal-binary
+	url = git@github.com:erikcharlebois/universal-binary.git
+[submodule "osx-ar"]
+	path = osx-ar
+	url = git@github.com:erikcharlebois/osx-ar.git
